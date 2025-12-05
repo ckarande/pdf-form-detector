@@ -1,0 +1,4 @@
+{
+  "name": "PDF Form Detector AI",
+  "description": "An intelligent tool that analyzes PDF URLs to distinguish between static documents and interactive fillable forms using Gemini AI."
+}
